@@ -1,4 +1,8 @@
-# CS012 Final Project Scaffolding
+# CS012 Final Project MVP Simulator Scaffolding
+
+This repository provides a lightweight local simulation of a **Cloud-Based Distributed System** built with Python and FastAPI. It simulates key distributed system concepts—including network topology, dynamic request routing, data sharding/hybrid cloud placement, and request tracing without external cloud services or containers. 
+
+**Note:** This is for blueprinting purposes only and it is up to you on implementing your proposed architecture.
 
 ## Prerequisites & Setup
 
